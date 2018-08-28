@@ -3,8 +3,9 @@
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
-Things you may want to cover:
-Without docker:
+Things you may want to cover
+
+ Without docker:
 
 * Ruby version : ruby:2.3-slim
 
