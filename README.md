@@ -4,10 +4,12 @@ This README would normally document whatever steps are necessary to get the
 application up and running.
 
 Things you may want to cover:
+Without docker:
 
-* Ruby version
+* Ruby version : ruby:2.3-slim
 
 * System dependencies
+    * apt-get update && apt-get install -qq -y --no-install-recommends build-essential nodejs libpq-dev imagemagick
 
 * Configuration
 
@@ -21,4 +23,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+
