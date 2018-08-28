@@ -5,23 +5,12 @@ application up and running.
 
 Things you may want to cover
 
- Without docker:
+With docker:
 
-* Ruby version : ruby:2.3-slim
+* Verify dockerfile and docker-compose.
 
-* System dependencies
-    * apt-get update && apt-get install -qq -y --no-install-recommends build-essential nodejs libpq-dev imagemagick
+To run this project:
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
+* docker-compose up
 
 
